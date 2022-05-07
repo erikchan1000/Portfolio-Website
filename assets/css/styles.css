@@ -354,7 +354,7 @@ img {
 
 
 /*Medium devices*/
-
+/*
 
 @media screen and (min-width:768px){
   .container{
@@ -532,7 +532,7 @@ img {
 
 /* Large Devices */
 
-
+/*
 @media screen and (min-width: 1024px){
   .header,
   .main,
